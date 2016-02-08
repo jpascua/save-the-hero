@@ -1,13 +1,10 @@
 # Save The Hero
-=============================================
 
 Game Title: Save the Hero
 Designer: Jeanne Pascua
 
 Class: CS332L - Learning Python with 2D Games
 Instructor: Keenan Knaur
-
-=============================================
 
 How To Play:
 	
