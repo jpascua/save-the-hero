@@ -1,4 +1,4 @@
-# Save The Hero
+# Save the Hero
 
 Game Title: Save the Hero
 Designer: Jeanne Pascua
